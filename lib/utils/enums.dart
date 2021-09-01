@@ -15,9 +15,12 @@ enum Brand {
   Other,
 }
 
-enum PartType {
-  Electric,
-  Tire,
+enum Condition {
+  Good,
+  Average,
+  Worn,
+  Low,
 }
 
 enum TirePosition { Front, Back }
+enum EnginePart { Valves, Other }

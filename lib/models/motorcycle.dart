@@ -1,4 +1,4 @@
-import 'package:motomanage/modals/part.dart';
+import 'package:motomanage/models/part.dart';
 import 'package:motomanage/utils/enums.dart';
 
 class Motorcycle {
